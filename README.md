@@ -25,7 +25,7 @@ watch-website/
 --> How to Run the Project
 
 -Clone the repository:
--git clone https://github.com/your-username/watch-website.git
+-git clone (https://github.com/Rajsinha7/Watch-Website)
 -Open the project folder:
 -cd watch-website
 -Open index.html in any web browser.
